@@ -1,0 +1,39 @@
+body {
+   background: url("https://images.wallpaperscraft.com/image/single/code_programming_text_155013_2560x1080.jpg") no-repeat ;
+   background-position: right, top;
+   background-size: cover;
+   background-color: rgb(255, 255, 255);
+   background-attachment:fixed;
+ }
+#yo {
+  color: white;
+  background-color: rgb(16, 15, 20);
+  margin-top: 1em;
+  margin-bottom: 1em;
+  margin-left: 1em;
+  margin-right: 1em;
+  border-radius: 12px;
+  padding: 1em;
+  box-shadow: 0 0 10px 0px rgb(0, 0, 0);
+}
+#perfil {
+padding: 1em;
+
+}
+#descripcion {
+  margin-top: auto;
+  margin-bottom: auto;
+  text-align: center;
+}
+#fotolucas{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 200px;
+}
+
+#baner {
+  width:auto;
+  margin: 1em;
+}
+
